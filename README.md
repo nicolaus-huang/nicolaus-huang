@@ -6,7 +6,7 @@
 
 I'm currently studying in Shandong University, major in Statistics, specified in aritificial intelligence and data science.
 
-I've a lot of intrests in Social Sciences, Psychology, Philosophy and Data Science.
+I've a lot of interests in Social Sciences, Psychology, Philosophy and Data Science.
 
 You can find more details about me in my [personal blog](https://wudao.blog)
 
