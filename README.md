@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Shijie Huang
 
-### A senior dreaming to be a scientist
+### A senior on the way of reseacher
 
 
 
