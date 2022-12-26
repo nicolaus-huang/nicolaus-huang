@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Shijie Huang
 
-### A senior on the way of reseacher
+### A researcher in AI
 
 
 
