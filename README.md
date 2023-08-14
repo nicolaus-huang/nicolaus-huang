@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Nicolaus Huang
 
-### A researcher in AI
+### Software Developer & Deep Learning Engineer
 
 
 
-I'm currently studying in Shandong University, major in Statistics, specified in aritificial intelligence and data science.
+I'm currently having my first Msc in NUS, major in Data Science and Machine Learning, and I'm looking for a job that suites my talents.
 
 I've a lot of interests in Social Sciences, Psychology, Philosophy and Data Science.
 
