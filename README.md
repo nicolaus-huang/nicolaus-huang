@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shijie Huang
+## Hi there 👋, I'm Nicolaus Huang
 
 ### A researcher in AI
 
