@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nicolaus Huang
 
-### Software Developer & Deep Learning Engineer
+### Software Developer & Deep Learning Researcher
 
 
 
