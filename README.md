@@ -4,7 +4,7 @@
 
 
 
-I'm currently having my first Msc in NUS, major in Data Science and Machine Learning, and I'm looking for a job that suites my talents.
+I'm currently pursuing my first Msc in NUS, major in Data Science and Machine Learning, and I'm looking for a job that suites my talents.
 
 I've a lot of interests in Social Sciences, Psychology, Philosophy and Data Science.
 
