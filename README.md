@@ -4,7 +4,7 @@
 
 
 
-I'm currently pursuing my first Msc in NUS, major in Data Science and Machine Learning, and at the same time I'm a part-time research assistant in Duke-NUS Medical School, researching on liver tumor segmentation, I'm looking for a job that suites my talents.
+I'm currently pursuing my first Msc in NUS, major in Data Science and Machine Learning, and at the same time I'm an algorighm engineer intern at Tiamat AI, I'm looking for a job that suites my talents.
 
 I've a lot of interests in Social Sciences, Psychology, Philosophy and Data Science.
 
