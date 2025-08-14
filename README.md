@@ -2,9 +2,7 @@
 
 ### Software Developer & Deep Learning Researcher
 
-
-
-I'm currently pursuing my first Msc in NUS, major in Data Science and Machine Learning, and at the same time I'm an algorighm engineer intern at Alibaba.
+I'm an algorighm engineer at Alibaba.
 
 I have a lot of interests in Social Sciences, Psychology, Philosophy and Data Science.
 
