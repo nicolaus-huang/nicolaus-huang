@@ -9,5 +9,5 @@ I have a lot of interests in Social Sciences, Psychology, Philosophy and Data Sc
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github.com/nicolaus-huang/nicolaus-huang/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/nicolaus-huang/nicolaus-huang/blob/main/github-metrics.svg" alt="Metrics" width="600">
 </div>
