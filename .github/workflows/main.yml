@@ -1,0 +1,32 @@
+name: Metrics
+on:
+  # 每天北京时间 0点 自动更新
+  schedule: [{cron: "0 16 * * *"}]
+  # 允许手动触发
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # === 基础设置 ===
+          user: nicolaus-huang
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # === 详细代码行数统计 ===
+          plugin_languages: yes
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          
+          # === 3D 等距日历 (学术感核心) ===
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
