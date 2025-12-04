@@ -8,4 +8,6 @@ I have a lot of interests in Social Sciences, Psychology, Philosophy and Data Sc
 
 ### GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaus-huang&layout=compact&hide=JavaScript&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div align="center">
+  <img src="https://github.com/nicolaus-huang/nicolaus-huang/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
